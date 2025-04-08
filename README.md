@@ -25,7 +25,7 @@ This project implements three popular computer vision algorithms using OpenCV to
 - `chessboard.png`
 ![chess](https://github.com/user-attachments/assets/36c6354e-fa3d-4c1c-9faa-caae30465adf)
 ![box_in_scene](https://github.com/user-attachments/assets/802f39d5-0e54-4f6e-830f-ebd54616451a)
-![box_in_scene](https://github.com/user-attachments/assets/f0d0daf7-58bb-4b54-97af-6c72053eb0c1)
+![box](https://github.com/user-attachments/assets/2c63a67d-0e45-4ec5-9ae7-9d1694d63f6e)
 
 
 
