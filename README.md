@@ -1,7 +1,7 @@
 # opencv-feature-matching
 This project implements three popular computer vision algorithms using OpenCV to detect and match keypoints between images and detect corners:
 
-## ✅ Implemented Algorithms
+##  Implemented Algorithms
 
 1. **SIFT (Scale-Invariant Feature Transform)**  
    - Detects and matches keypoints between two images using SIFT.
@@ -18,7 +18,7 @@ This project implements three popular computer vision algorithms using OpenCV to
 
 ---
 
-## 🖼 Sample Images Used
+##  Sample Images Used
 
 - `box.png`  
 - `box_in_scene.png`  
